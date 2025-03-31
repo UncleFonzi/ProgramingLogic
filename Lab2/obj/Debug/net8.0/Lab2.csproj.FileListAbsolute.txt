@@ -1,0 +1,15 @@
+/workspaces/ProgramingLogic/Lab2/bin/Debug/net8.0/Lab2
+/workspaces/ProgramingLogic/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/workspaces/ProgramingLogic/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/workspaces/ProgramingLogic/Lab2/bin/Debug/net8.0/Lab2.dll
+/workspaces/ProgramingLogic/Lab2/bin/Debug/net8.0/Lab2.pdb
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.sourcelink.json
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.dll
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.pdb
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/workspaces/ProgramingLogic/Lab2/obj/Debug/net8.0/ref/Lab2.dll
