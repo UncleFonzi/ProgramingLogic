@@ -14,6 +14,11 @@ class Book
         this.title = title;
     }
 
+    public Book(string title, string author)  
+    {
+        this.title = title;
+        this.author = author;
+    }
     public string GetTitle()
     {
         return title;
@@ -33,12 +38,7 @@ class Book
     {
         author = newAuthor;
     }
-  
-    public Book(string title, string author)  
-    {
-        this.title = title;
-        this.author = author;
-    }
+
 }
 
 class Program
