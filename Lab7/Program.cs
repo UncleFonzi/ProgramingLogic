@@ -7,11 +7,13 @@ class Book
     public Book()  // Default Constructor
     {
         title = "Unknown Title";
+        author = "Unknown Author"; // added default author
     }
 
     public Book(string title)  
     {
         this.title = title;
+        author = "Unknown Author"; // added default author
     }
 
     public Book(string title, string author)  

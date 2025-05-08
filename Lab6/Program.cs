@@ -26,16 +26,10 @@ class Car
     Console.WriteLine("The car drove " + miles + " miles"); 
   } 
 
-  public int GetDescription(int a) 
-  { 
-    return a; 
-  } 
-
-  public string GetDescription(string b, string c) 
-  { 
-    return b + c; 
-  } 
-
+public string GetDescription()
+  {
+    return $"{year} {color} {model}";
+  }
   public void Repaint(string newColor)
   {
     color = newColor;
@@ -55,9 +49,9 @@ class Program
     myCar.Start(); 
     myCar.Drive(50); 
 
-    int z = myCar.GetDescription(myCar.year); 
-    string y = myCar.GetDescription(myCar.color, myCar.model); 
-    Console.WriteLine(z + " " + y); 
+    
+    string y = myCar.GetDescription(); 
+    Console.WriteLine(y); 
     myCar.Repaint("red");
     Console.WriteLine("The car has been repainted to "+ myCar.color);
   }  
